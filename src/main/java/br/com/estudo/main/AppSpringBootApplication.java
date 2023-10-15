@@ -1,4 +1,4 @@
-package br.com.albeneto.appspringboot;
+package br.com.estudo.main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
