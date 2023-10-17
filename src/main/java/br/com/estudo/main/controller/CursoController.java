@@ -16,7 +16,9 @@ public class CursoController {
 		return Arrays.asList(
 				new Curso(1, "Learn AWS", "in28minutes"),
 				new Curso(2, "Learn Java", "in28minutes"),
-				new Curso(3, "Learn API Rest", "in28minutes")
+				new Curso(3, "Learn API Rest", "in28minutes"),
+				new Curso(4, "Learn DevOps", "in28minutes"),
+				new Curso(4, "Learn GPT", "in28minutes")
 				);
 	}
 }
